@@ -1,0 +1,32 @@
+td{
+  height: 30px;
+  width: 30px;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  margin: 0;
+}
+
+tr #row9 {
+  border-bottom: 2px solid black;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.torpedo {
+  background-color: #d62d20;
+}
+
+.hitShip {
+  background-color:  blue;
+}
+
+.whereTheShipsWere {
+  background-color: black;
+}
+
+body {
+
+}
