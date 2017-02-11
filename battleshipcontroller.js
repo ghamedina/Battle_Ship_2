@@ -21,7 +21,7 @@ $(document).ready(function() {
   }//closes buildTable
 
 buildTable();
-placeShips();
+
 console.log(board);
 
 //below: once I click on the game:
